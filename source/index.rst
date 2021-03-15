@@ -1,6 +1,6 @@
 ﻿
 
-cynbit English Introduction
+Synbit Introduction
 =================================================
 
 .. toctree::
