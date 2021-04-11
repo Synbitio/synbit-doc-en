@@ -1,11 +1,11 @@
-How to stake HT at SYNBIT (Temporarily only supports HuoBi ECO Chain test network)
+How to stake HT at SYNBIT
 ================================================================================================
 
-1. Open the Synbit website www.synbit.io and click DEMO to enter the test page
+1. Open the Synbit website www.synbit.io and click STAKE to enter the page
 
 .. image:: 35.png
 
-2.Click Connect Wallet on the test page
+2. Click Connect Wallet on the page
 
 .. image:: 28.png
 
@@ -33,4 +33,4 @@ How to stake HT at SYNBIT (Temporarily only supports HuoBi ECO Chain test networ
 
 .. image:: 34.png
 
-P.S. For HT in HECO test network, please refer to our other article "How to get token in HECO test network".
+

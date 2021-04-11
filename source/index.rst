@@ -6,7 +6,6 @@ Synbit Introduction
 .. toctree::
    :maxdepth: 2
 
-   list3
    list4
    list5
 
