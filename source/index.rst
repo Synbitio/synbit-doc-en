@@ -6,8 +6,8 @@ Synbit Introduction
 .. toctree::
    :maxdepth: 2
 
-   list4
    list5
+   list6
 
 Useful links
 ------------
